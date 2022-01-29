@@ -1,0 +1,10 @@
+{
+    "token":"Here goes the token",
+    "prefix":"!",
+	"serverip":"server.net",
+	"port":"25565", // Your server port
+	"color":"Your favorite color", // https://gist.github.com/thomasbnt/b6f455e2c7d743b796917fa3c205f812 << Avaliable colors 
+	"logo":"Your server logo URL",
+	"shop":"server.shop",
+    "administrators":"Here goes your discord ID" // Ex: 777643768266489906
+}
